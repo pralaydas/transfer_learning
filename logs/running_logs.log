@@ -1,0 +1,12 @@
+[2022-04-17 19:38:40,302: INFO: 01_base_model]: 
+********************
+[2022-04-17 19:38:40,302: INFO: 01_base_model]: >>>>> stage creating base model started <<<<<
+[2022-04-17 19:38:40,303: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-04-17 19:38:50,826: INFO: 01_base_model]: >>>>> stage creating base model completed!<<<<<
+
+[2022-04-17 19:40:32,381: INFO: 01_base_model]: 
+********************
+[2022-04-17 19:40:32,381: INFO: 01_base_model]: >>>>> stage creating base model started <<<<<
+[2022-04-17 19:40:32,382: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-04-17 19:40:32,812: INFO: 01_base_model]: >>>>> stage creating base model completed!<<<<<
+
